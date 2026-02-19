@@ -13,14 +13,6 @@ Website/program ini memuat:
 ---
 
 ## Struktur Folder dan File
-Berikut adalah susunan direktori dalam proyek ini:
-
-├── zodiak.js
-├── package.json
-├── package-lock.json
-└── node_modules/
-
-## Penjelasan Struktur
 1. **File JavaScript**
    File `zodiak.js` merupakan file utama program yang berisi kode untuk input user, validasi tanggal dan bulan, serta penentuan zodiak menggunakan kondisi `if else`.
 2. **File package.json**

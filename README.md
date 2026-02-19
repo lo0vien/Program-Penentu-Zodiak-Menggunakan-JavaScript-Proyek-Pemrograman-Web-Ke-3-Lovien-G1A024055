@@ -3,7 +3,7 @@
 Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi Universitas Bengkulu Program Studi Informatika Angkatan 2024 dengan NPM **G1A024055**.
 Program ini dibuat sebagai bagian dari latihan pemrograman dasar menggunakan JavaScript dan Node.js. Program ini merupakan aplikasi sederhana berbasis terminal yang berfungsi untuk menentukan zodiak berdasarkan tanggal dan bulan lahir yang diinput oleh user.
 
-Website/program ini memuat:
+Program ini memuat:
 * Input tahun lahir untuk mengecek kabisat
 * Input bulan lahir (hanya 12 bulan valid)
 * Input tanggal lahir sesuai jumlah hari pada bulan tersebut

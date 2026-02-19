@@ -14,12 +14,10 @@ Website/program ini memuat:
 
 ## Struktur Folder dan File
 Berikut adalah susunan direktori dalam proyek ini:
+
 ├── zodiak.js
-
 ├── package.json
-
 ├── package-lock.json
-
 └── node_modules/
 
 ## Penjelasan Struktur

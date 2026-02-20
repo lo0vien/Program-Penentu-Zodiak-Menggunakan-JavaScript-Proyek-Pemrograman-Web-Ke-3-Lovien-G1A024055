@@ -91,5 +91,18 @@ Program penentu zodiak ini dibuat untuk melatih kemampuan dasar pemrograman Java
 
 ---
 
+## Lampiran
+
+### 1. Input User Tahun Kabisat
+
+
+### 2. Input User Tahun Non- Kabisat dan Kesalahan Input Tanggal
+
+
+### 3. Input User Kesalahan Bulan Lahir
+
+
+### 4. Input User Berhasil
+
 Terima kasih telah membaca README ini!
 

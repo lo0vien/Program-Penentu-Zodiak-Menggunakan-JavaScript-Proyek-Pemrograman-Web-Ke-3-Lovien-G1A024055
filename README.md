@@ -103,7 +103,7 @@ Program penentu zodiak ini dibuat untuk melatih kemampuan dasar pemrograman Java
 
 
 ### 4. Input User Berhasil
-![Tampilan Berhasil](lampiran/Berhasil.png)
+![Tampilan Berhasil](Lampiran/Berhasil.png)
 
 Terima kasih telah membaca README ini!
 

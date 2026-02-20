@@ -100,10 +100,12 @@ Program penentu zodiak ini dibuat untuk melatih kemampuan dasar pemrograman Java
 ![Tampilan Berhasil](Lampiran/Non-Kabisat.png)
 
 ### 3. Input User Kesalahan Bulan Lahir
-![Tampilan Berhasil](Lampiran/Kesalahan Bulan.png)
+![Tampilan Berhasil](Lampiran/KesalahanBulan.png)
 
 ### 4. Input User Berhasil
 ![Tampilan Berhasil](Lampiran/Berhasil.png)
+
+---
 
 Terima kasih telah membaca README ini!
 
